@@ -1,0 +1,8 @@
+/data/
+/data/processed/
+/outputs/
+/report.md
+/models/
+__pycache__/
+*.pyc
+.venv/
